@@ -6,7 +6,6 @@ This repository contains the implementation of a Neural Style Transfer model tha
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Project Structure](#project-structure)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -20,16 +19,11 @@ Neural Style Transfer is a technique in deep learning where the style of one ima
 - Customize the level of style and content blending.
 - Supports high-resolution images.
 
-
 ### Arguments
 - `--content_image`: Path to the content image.
 - `--style_image`: Path to the style image.
 - `--output_image`: Path to save the output image.
 - `--iterations`: Number of iterations for optimization (default: 1000).
-## Examples
-Here are some examples of the Neural Style Transfer results:
-
-(download (1).png)
 
 ## Acknowledgements – 
 This project uses the VGG19 model pre-trained on the ImageNet dataset. 
