@@ -7,7 +7,6 @@ This repository contains the implementation of a Neural Style Transfer model tha
 - [Features](#features)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Project Structure](#project-structure)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -32,6 +31,9 @@ Here are some examples of the Neural Style Transfer results:
 | Content Image  | Style Image | Output Image |
 | -------------- | ----------- | ------------ |
 | ![Content](examples/content.jpg) | ![Style](examples/style.jpg) | ![Output](examples/output.jpg) |
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements – 
 This project uses the VGG19 model pre-trained on the ImageNet dataset. 
