@@ -29,9 +29,7 @@ Neural Style Transfer is a technique in deep learning where the style of one ima
 ## Examples
 Here are some examples of the Neural Style Transfer results:
 
-| Content Image  | Style Image | Output Image |
-| -------------- | ----------- | ------------ |
-| ![Content](examples/content.jpg) | ![Style](examples/style.jpg) | ![Output](examples/output.jpg) |
+|[example](download(1).png) |
 
 ## Acknowledgements – 
 This project uses the VGG19 model pre-trained on the ImageNet dataset. 
